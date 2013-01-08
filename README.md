@@ -1,4 +1,4 @@
 pub
 ===
 
-A public git repository for my information
+It's a public git repository for ST's information
